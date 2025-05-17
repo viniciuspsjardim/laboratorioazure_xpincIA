@@ -1,4 +1,4 @@
-# laboratorioazure_xpincIA
+# Laboratório Azure - DIO XP Inc. - Cloud com Inteligência Artificial
 
 # 🚀 Desafio DIO: Criando uma Máquina Virtual no Azure
 
